@@ -1,0 +1,40 @@
+{
+  "ProjectName": "kendo3",
+  "ProjectGuid": "8c4e019c-127a-4590-89f6-a562ae417164",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.kendo3",
+  "DisplayName": "kendo3",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{658ed35b-0d4a-4409-b775-c66d7dce0a2e}",
+  "WP8ProductID": "{aea13df7-ae51-413b-b7c3-77671d8e72d5}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.kendo3",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
